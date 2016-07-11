@@ -1,0 +1,71 @@
+@import url(cabeza.css);
+@import url(menu.css);
+@import url(slideshow.css);
+@import url(cuerpo.css);
+@import url(pies.css);
+
+*{
+margin:0px;
+padding:0px;
+border:none;
+list-style:none;
+text-decoration:none;
+}
+.clear {
+clear: both;
+}
+body{
+background-color:#fff;
+font-family: arial;
+background:url(images/fondo.jpg) no-repeat center top;
+font-size:12px;
+}
+
+*:focus{
+outline:none;
+}
+
+p{
+margin:5px 0px;
+}
+.centralizar{
+width:1024px;
+margin:0 auto;
+height:auto;
+position:relative;
+}
+
+.ui-tabs .ui-tabs-hide { display: none !important; }
+
+/* jssor slider arrow navigator skin 06 css */
+/*
+.jssora06l              (normal)
+.jssora06r              (normal)
+.jssora06l:hover        (normal mouseover)
+.jssora06r:hover        (normal mouseover)
+.jssora06ldn            (mousedown)
+.jssora06rdn            (mousedown)
+*/
+.jssora06l, .jssora06r, .jssora06ldn, .jssora06rdn
+{
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    background: url(../../images/a06.png) no-repeat;
+    overflow:hidden;
+}
+.jssora06l { background-position: -8px -38px; }
+.jssora06r { background-position: -68px -38px; }
+.jssora06l:hover { background-position: -128px -38px; }
+.jssora06r:hover { background-position: -188px -38px; }
+.jssora06ldn { background-position: -248px -38px; }
+.jssora06rdn { background-position: -308px -38px; }
+
+.slidecatalogo {
+position: relative; width: 959px;
+height: 500px; overflow: hidden;
+}
+.theslidesc{
+cursor: move; position: absolute; left: 0px; top: 0px; width: 959px; height: 500px;
+overflow: hidden;
+}

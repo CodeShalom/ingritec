@@ -1,0 +1,45 @@
+#Pies{
+width:1005px;
+height:80px;
+background:linear-gradient(#ccc,#fff 150px);
+margin:0 auto;
+clear:both;
+padding:10px;
+}
+
+p.copyright{
+color:#666;
+float:left;
+line-height: 1.4;
+}
+
+p.fcontact{
+color:#666;
+float:right;
+width:260px;
+text-align:right;
+line-height: 1.4;
+}
+
+ul.fmenu{
+float:left;
+clear:left;
+margin-top:8px;
+}
+
+ul.fmenu li{
+float:left;
+margin:0 10px 0 0px;
+}
+
+ul.fmenu li a{
+float:left;
+color:#666;
+text-decoration:underline;
+}
+
+ul.fmenu li a:hover{
+float:left;
+color:#666;
+text-decoration:none;
+}

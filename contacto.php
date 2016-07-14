@@ -8,7 +8,7 @@
   
   <div id="Cuerpo" class="contenido">
     <h2 class="titles in">Contactos</h2>
-    <p><strong>Dirección:</strong> Calle 6 esquina Calle 7 #17, Residencial Rosmil, Distrito Nacional Republica Dominicana<br>
+    <p><strong>Dirección:</strong> Merca Santo Domingo, KM 22 Autopista Duarte, Edif. Administrativo local No.SN2-6, República Dominicana<br>
       <strong>Tel/Fax:</strong> 809-274-4166<br>
       <strong>Email:</strong> <a href="mailto:ingritec@gmail.com">ingritec@gmail.com</a> </p>
       
